@@ -1,5 +1,5 @@
 # 💫 About Me:
-✋  Hi, I’m Rahul<br>🖥️ Software Engineer by profession, Part-time freelancer<br>👨‍🎓️  CSE Graduate from Syracuse University<br>👨‍💻 Full Stack Developer<br>🤔 Exuberant | Inquisitive | Intuitive <br>📧 My Email is rahulpudurkar68@gmail.com, drop in a Hello!
+✋  Hi, I’m Rahul<br>🖥️ Software Engineer by profession, Part-time freelancer<br>👨‍🎓️  CSE Grad from Syracuse University<br>👨‍💻 Full Stack Developer<br>🤔 Exuberant | Inquisitive | Intuitive <br>📧 My Email is rahulpudurkar68@gmail.com, drop in a Hello!
 
 
 ## 🌐 Socials:
