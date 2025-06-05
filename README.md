@@ -1,13 +1,13 @@
-# Rahul Pudurkar
+# Rahul Manjunath Pudurkar
 
-**Full Stack Developer** | Software Engineer | CSE Graduate, Syracuse University  
+**Full Stack Developer** | Software Engineer | ML/AI Enthusiast | CS Graduate, Syracuse University  
 📧 rahulpudurkar68@gmail.com
 
 ---
 
 ## About Me
 
-I am a dedicated Full Stack Developer with a Master of Science in Computer Science from Syracuse University. Over several years of industry experience, I have designed, developed, and maintained web and mobile applications using modern technologies and best practices. I excel at collaborating with cross-functional teams to deliver scalable, high-performance software solutions.
+I am a dedicated Full Stack Developer with a MS degree in Computer Science from Syracuse University. Over several years of industry experience, I have designed, developed, and maintained web and mobile applications using modern technologies and best practices. I excel at collaborating with cross-functional teams to deliver scalable, high-performance software solutions.
 
 - **Education**  
   - M.S. in Computer Science, Syracuse University (2023–2025)  
