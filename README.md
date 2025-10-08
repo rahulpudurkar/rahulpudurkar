@@ -1,73 +1,94 @@
-# Rahul Manjunath Pudurkar
+# Rahul Manjunath Pudurkar  
 
-**Full Stack Developer** | Software Engineer | ML/AI Enthusiast | CS Graduate, Syracuse University  
-📧 rahulpudurkar68@gmail.com
-
----
-
-## About Me
-
-I am a dedicated Full Stack Developer with a MS degree in Computer Science from Syracuse University. Over several years of industry experience, I have designed, developed, and maintained web and mobile applications using modern technologies and best practices. I excel at collaborating with cross-functional teams to deliver scalable, high-performance software solutions.
-
-- **Education**  
-  - M.S. in Computer Science, Syracuse University (2023–2025)  
-  - B.E. in Computer Engineering, University of Mumbai (2017–2021)
-
-- **Professional Experience**  
-  - Software Developer Intern at Clutch Delivery LLC (Dec 2023 – Aug 2024)  
-  - Software Engineer at Dure Technologies (Jul 2021 – Jun 2023)
-
-- **Core Competencies**  
-  - Full Stack Web Development (React, Node.js, Express, MongoDB, PostgreSQL)  
-  - Mobile Application Development (Flutter, React Native, Android, iOS)  
-  - DevOps & CI/CD (Docker, Kubernetes, AWS, Firebase)  
-  - Backend Architecture & API Design (RESTful services, microservices, security)  
-  - Testing & Quality Assurance (TDD, Jest, integration testing)  
+**Full-Stack Software Engineer** | AI/ML & GenAI Enthusiast | Cloud & DevOps | CS Graduate, Syracuse University  
+📧 rahul.p@mailmywork.com | 📍 New York  
 
 ---
 
-## Social
+## About Me  
 
-- [LinkedIn](https://www.linkedin.com/in/rahul-pudurkar-555432182/)  
-- [GitHub](https://github.com/rahulpudurkar)  
-- [Instagram](https://www.instagram.com/its_rahulpudurkar/)  
+I am a **Full-Stack Software Engineer** with 5+ years of industry experience, currently completing my **M.S. in Computer Science at Syracuse University (2023–2025)**.  
+
+I specialize in building **scalable applications, data-driven platforms, and AI/ML-powered solutions** across finance, logistics, and healthcare. My work has delivered measurable business outcomes, such as:  
+
+- Preventing **$6.5M in misclassified exposures** with GenAI pipelines.  
+- Reducing **API latencies by 40%+** in production systems.  
+- Designing scalable services handling **80K+ daily transactions** with sub-300ms latency.  
+
+I love bridging **backend reliability, cloud/DevOps automation, and modern AI/ML integration** to deliver high-performance, production-ready solutions.  
 
 ---
 
-## Tech Stack
+## Education  
+
+- **M.S. in Computer Science**, Syracuse University — May 2025  
+- **B.E. in Computer Engineering**, University of Mumbai — 2021  
+
+---
+
+## Professional Experience  
+
+### **JPMorgan Chase** — *Software Development Engineer (AI/ML & GenAI Platforms)*  
+*Jan 2025 – Present, New York, NY*  
+- Built Python FastAPI services for LLM-powered document insights, reducing review time by **40%**.  
+- Designed PySpark + AWS Glue ingestion pipelines for millions of financial documents.  
+- Developed RAG workflows with LangChain + FAISS, cutting lookup time from hours to minutes.  
+- Fine-tuned DocLLM models, improving clause extraction F1 scores by **20%**.  
+
+### **Clutch Delivery LLC (Syracuse University CASE Co-op)** — *Software Engineer*  
+*Dec 2023 – Aug 2024, Syracuse, NY*  
+- Re-architected Node.js/Express APIs into Dockerized microservices, cutting latency **40%**.  
+- Built hybrid storage with PostgreSQL + RDS + MongoDB, achieving **99.9% uptime**.  
+- Automated CI/CD pipelines (GitHub Actions + Jenkins), reducing release cycles by **60%**.  
+
+### **Dure Technologies** — *Software Engineer, iMonitorPlus – Financial Data Platform*  
+*Apr 2021 – Jun 2023, Mumbai, India*  
+- Scaled backend services to support 35+ countries using Java Spring Boot.  
+- Optimized queries in MySQL/Hibernate, boosting processing speed by **55%**.  
+- Built ReactJS interfaces adopted by 5K+ active health workers.  
+
+### **Space Infolab** — *Java Developer, Loan & Customer Onboarding Platform*  
+*Jan 2020 – Mar 2021, Remote, India*  
+- Developed Java Spring Boot microservices scaling to **80K+ daily requests**.  
+- Improved payment throughput by **35%** with multithreading + JMS queues.  
+
+---
+
+## Tech Stack  
 
 **Languages & Frameworks**  
-- JavaScript (ES6+), TypeScript, Python, Java, C, C++  
-- HTML5, CSS3, SASS/SCSS  
-- React, Redux, Next.js, Node.js, Express.js  
-- Flutter, React Native, SwiftUI, Kotlin/Java (Android)  
+- Java, Python, JavaScript/TypeScript, SQL, Node.js, React.js, Next.js, Redux, FastAPI, Spring Boot  
 
-**Databases & Storage**  
-- MongoDB, Firebase (Firestore, Auth, Storage)  
-- PostgreSQL, MySQL, SQLite, Amazon RDS  
+**Cloud & DevOps**  
+- AWS (EC2, S3, Glue, Redshift, SageMaker, Bedrock), Azure  
+- Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Airflow  
 
-**DevOps & Cloud**  
-- Docker, Kubernetes, AWS (EC2, IAM, S3, RDS, Lambda)  
-- CI/CD (GitHub Actions, Jenkins, Vercel, Firebase Hosting)  
+**Databases & Data Engineering**  
+- PostgreSQL, Oracle, MySQL, MongoDB, Firebase, Vector DBs  
+- ETL Pipelines, Data Lakes, Apache Kafka, Data Modeling  
 
-**Tools & Testing**  
-- Git, GitHub, GitLab   
-- Jest, Mocha, Chai, Supertest  
-- Swagger (OpenAPI), Postman  
-- JIRA, Trello, Figma, Adobe XD  
+**AI/ML & Analytics**  
+- Hugging Face Transformers, RAG Frameworks, LLM Integration, OpenAI API  
+- PyTorch, XGBoost, Scikit-learn, OpenCV, FAISS  
 
 ---
 
-## GitHub Statistics
+## GitHub Statistics  
 
 ![Rahul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpudurkar&theme=midnight-purple&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpudurkar&theme=midnight-purple&hide_border=true&layout=compact)  
 
 ---
 
-## Contact
+## Social  
 
-Feel free to reach out if you’re interested in collaborating, have questions about my work, or just want to say hello.  
-📧 rahulpudurkar68@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/rahul-pudurkar/)  
+- [GitHub](https://github.com/rahulpudurkar)  
+- [Portfolio](https://rahulpudurkar.github.io/Portfolio-Website/)  
 
+---
+
+## Contact  
+
+📧 rahul.p@mailmywork.com  
 ---
