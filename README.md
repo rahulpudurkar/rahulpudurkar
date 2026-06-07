@@ -26,34 +26,6 @@ I love bridging **backend reliability, cloud/DevOps automation, and modern AI/ML
 
 ---
 
-## Professional Experience  
-
-### **JPMorgan Chase** — *Software Development Engineer (AI/ML & GenAI Platforms)*  
-*Jan 2025 – Present, New York, NY*  
-- Built Python FastAPI services for LLM-powered document insights, reducing review time by **40%**.  
-- Designed PySpark + AWS Glue ingestion pipelines for millions of financial documents.  
-- Developed RAG workflows with LangChain + FAISS, cutting lookup time from hours to minutes.  
-- Fine-tuned DocLLM models, improving clause extraction F1 scores by **20%**.  
-
-### **Clutch Delivery LLC (Syracuse University CASE Co-op)** — *Software Engineer*  
-*Dec 2023 – Aug 2024, Syracuse, NY*  
-- Re-architected Node.js/Express APIs into Dockerized microservices, cutting latency **40%**.  
-- Built hybrid storage with PostgreSQL + RDS + MongoDB, achieving **99.9% uptime**.  
-- Automated CI/CD pipelines (GitHub Actions + Jenkins), reducing release cycles by **60%**.  
-
-### **Dure Technologies** — *Software Engineer, iMonitorPlus – Financial Data Platform*  
-*Apr 2021 – Jun 2023, Mumbai, India*  
-- Scaled backend services to support 35+ countries using Java Spring Boot.  
-- Optimized queries in MySQL/Hibernate, boosting processing speed by **55%**.  
-- Built ReactJS interfaces adopted by 5K+ active health workers.  
-
-### **Space Infolab** — *Java Developer, Loan & Customer Onboarding Platform*  
-*Jan 2020 – Mar 2021, Remote, India*  
-- Developed Java Spring Boot microservices scaling to **80K+ daily requests**.  
-- Improved payment throughput by **35%** with multithreading + JMS queues.  
-
----
-
 ## Tech Stack  
 
 **Languages & Frameworks**  
