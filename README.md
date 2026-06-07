@@ -38,18 +38,10 @@ I love bridging **backend reliability, cloud/DevOps automation, and modern AI/ML
 
 ---
 
-## GitHub Statistics  
-
-![Rahul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpudurkar&theme=midnight-purple&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpudurkar&theme=midnight-purple&hide_border=true&layout=compact)  
-
----
-
 ## Social  
 
-- [LinkedIn](https://www.linkedin.com/in/rahul-pudurkar/)  
+- [LinkedIn](https://www.linkedin.com/in/rahul~mp/)
 - [GitHub](https://github.com/rahulpudurkar)  
-- [Portfolio](https://rahulpudurkar.github.io/Portfolio-Website/)  
 
 ---
 
