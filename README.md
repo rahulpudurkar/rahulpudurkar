@@ -19,13 +19,6 @@ I love bridging **backend reliability, cloud/DevOps automation, and modern AI/ML
 
 ---
 
-## Education  
-
-- **M.S. in Computer Science**, Syracuse University — May 2025  
-- **B.E. in Computer Engineering**, University of Mumbai — 2021  
-
----
-
 ## Tech Stack  
 
 **Languages & Frameworks**  
