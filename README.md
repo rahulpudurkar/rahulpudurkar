@@ -1,7 +1,7 @@
 # Rahul Manjunath Pudurkar  
 
 **Full-Stack Software Engineer** | AI/ML & GenAI Enthusiast | Cloud & DevOps | CS Graduate, Syracuse University  
-📧 rahul.p@mailmywork.com | 📍 New York  
+📧 rahul.p@mailmywork.com
 
 ---
 
