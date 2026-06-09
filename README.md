@@ -1,13 +1,13 @@
 # Rahul Manjunath Pudurkar  
 
-**Full-Stack Software Engineer** | AI/ML & GenAI Enthusiast | Cloud & DevOps | CS Graduate, Syracuse University  
+**Full-Stack Software Engineer** | **Data Engineer** | AI/ML & GenAI Enthusiast | Cloud & DevOps | CS Graduate, Syracuse University  
 📧 rahul.p@mailmywork.com
 
 ---
 
 ## About Me  
 
-I am a **Full-Stack Software Engineer** with 5+ years of industry experience, currently completing my **M.S. in Computer Science at Syracuse University (2023–2025)**.  
+I am a **Full-Stack Software Engineer** and **Data Engineer** with 5+ years of industry experience, currently completing my **M.S. in Computer Science at Syracuse University (2023–2025)**.  
 
 I specialize in building **scalable applications, data-driven platforms, and AI/ML-powered solutions** across finance, logistics, and healthcare. My work has delivered measurable business outcomes, such as:  
 
